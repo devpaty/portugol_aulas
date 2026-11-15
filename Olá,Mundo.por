@@ -10,5 +10,5 @@ programa {
  escreva ("Não vou desistir!\n")
  escreva ("Hoje aprendi Portugol!\n")
  escreva ("Amanhã vou dominar o se/senao!\n")
-}}
+}
 
