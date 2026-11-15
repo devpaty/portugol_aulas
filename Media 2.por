@@ -11,5 +11,5 @@ programa {
  media=(n1+n2)/2
  escreva ("Muito prazer", nome, "Sua media e",media)
  }
-  
+ }
 
