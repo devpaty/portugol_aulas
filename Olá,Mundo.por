@@ -9,6 +9,6 @@ programa {
  escreva ("Hoje choveu!\n")
  escreva ("Nao vou desistir!\n")
  escreva ("Hoje aprendi Portugol!\n")
- escreva ("Amanha vou dominar o se /senao!\n")
+ escreva ("Amanha vou dominar o se/senao!\n")
 }}
 
