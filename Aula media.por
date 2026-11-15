@@ -5,7 +5,7 @@ programa {
    leia (n1)
    escreva ("digite n2")
    leia (n2)
-   escreva (media=(n1+n2)/2)
+   media=(n1+n2)/2)
    }
 
   
