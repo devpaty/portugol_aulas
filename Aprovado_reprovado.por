@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    inteiro n1 ,n2 , n3 , n4 ,  media
+    inteiro n1,n2,n3,n4,media
     escreva ("digite n1")
     leia (n1)
     escreva ("digite n2")
@@ -15,7 +15,7 @@ programa {
        escreva ("Aprovado")
     senao {
        escreva ("Reprovado")
-    }
+      }
     }
     
   }
