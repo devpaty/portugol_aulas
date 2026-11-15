@@ -11,4 +11,5 @@ programa {
  escreva ("Hoje aprendi Portugol!\n")
  escreva ("Amanhã vou dominar o se/senao!\n")
 }
+}
 
